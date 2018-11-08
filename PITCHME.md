@@ -65,9 +65,6 @@ https://web3.foundation
 @title[Tech Stack Overview]
 ![Tech Stack Overview](./images/web3techstack.png)
 +++
-@title[Tech Stack 1]
-![Tech Stack 1](./images/tech_stack_1.JPG)
-+++
 @title[Tech Stack 2]
 ![Tech Stack 2](./images/tech_stack_2.JPG)
 +++
@@ -99,22 +96,22 @@ https://web3.foundation
 
 ### Notable Projects
 
----
++++
 
 ### Matrix
 
+![](./images/matrix_2.JPG)
 
-
----
++++
 
 @quote[Matrix defines a set of open APIs for decentralised communication, suitable for securely publishing, persisting and subscribing to data over a global open federation of servers with no single point of control. Uses include Instant Messaging, Voice over IP signalling, IOT communication, and bridging together existing communication silos - providing the basis of a new open real-time communication ecosystem.]
 
 https://matrix.org/docs/spec/
 
----
-
-
-
++++
+![](./images/matrix.png)
++++
+![](./images/matrix_3.JPG)
 ---
 
 ### LibP2P
