@@ -1,4 +1,5 @@
-# Web3 Summit 2018 in Berlin
+# Web3 Summit 2018
+## Berlin
 
 https://gitpitch.com/rjchow/Web3Summit-2018/master
 ---
@@ -11,7 +12,7 @@ https://gitpitch.com/rjchow/Web3Summit-2018/master
 
 ---
 
-# What is Web 3.0 ?
+### What is Web 3.0 ?
 - Web 1.0: Read-Only
 - Web 2.0: Read-Write
 - Web 3.0: Read-Write-Verify
@@ -25,20 +26,20 @@ https://medium.com/@gavofyork/why-we-need-web-3-0-5da4f2bf95ab
 
 ---
 
-# Web3 Foundation
+### Web3 Foundation
 @quote[The Web3 Foundation nurtures and stewards technologies and applications in the fields of decentralized web software protocols, particularly those which utilize modern cryptographic methods to safeguard decentralization, to the benefit and for the stability of the Web3 ecosystem.]
 
 https://web3.foundation
 
 ---
 
-# Web3 Tech Stack
+### Web3 Tech Stack
 
 ---
 ![Tech Stack Overview](./images/web3techstack.png)
 ---
 
-# Notable Projects
+### Notable Projects
 
 ---
 
@@ -93,7 +94,7 @@ https://polkadot.network
 https://www.starkware.co
 
 ---
-# Governance
+### Governance
 
 ---
 
@@ -103,7 +104,7 @@ Declare your Governance rules such that it is fair regardless of which role you 
 
 ---
 
-# Solidified CTF
+### Solidified CTF
 
 
 
