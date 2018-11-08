@@ -14,7 +14,7 @@ https://gitpitch.com/rjchow/Web3Summit-2018/master
 
 ### What is Web 3.0 ?
 
-![What is Web 3](./images/whatisweb3.png)
+![What is Web 3](./images/whatisweb3.jpg)
 
 
 ---
