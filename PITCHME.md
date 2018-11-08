@@ -11,20 +11,31 @@ https://gitpitch.com/rjchow/Web3Summit-2018/master
 
 ---
 
-# What is Web3.0 ?
+# What is Web 3.0 ?
+- Web 1.0: Read-Only
+- Web 2.0: Read-Write
+- Web 3.0: Read-Write-Verify
+
+@quote[Web 3.0 is a broad movement and a group of associated technologies aiming to make the web and the internet more decentralised, verifiable, and secure. 
+
+The goals of Web 3.0 include (a) trustless infrastructure; (b) removing intermediaries; and (c) giving users power and ownership over their data, identiy, security, and transactions.]
+
+
+https://medium.com/@gavofyork/why-we-need-web-3-0-5da4f2bf95ab
 
 ---
 
 # Web3 Foundation
+@quote[The Web3 Foundation nurtures and stewards technologies and applications in the fields of decentralized web software protocols, particularly those which utilize modern cryptographic methods to safeguard decentralization, to the benefit and for the stability of the Web3 ecosystem.]
+
+https://web3.foundation
 
 ---
 
 # Web3 Tech Stack
 
 ---
-
-<Insert picture of tech stack>
-  
+![Tech Stack Overview](./images/web3techstack.png)
 ---
 
 # Notable Projects
@@ -33,9 +44,17 @@ https://gitpitch.com/rjchow/Web3Summit-2018/master
 
 ### Matrix
 
-Matrix defines a set of open APIs for decentralised communication, suitable for securely publishing, persisting and subscribing to data over a global open federation of servers with no single point of control. Uses include Instant Messaging (IM), Voice over IP (VoIP) signalling, Internet of Things (IoT) communication, and bridging together existing communication silos - providing the basis of a new open real-time communication ecosystem.
+
+
+---
+
+@quote[Matrix defines a set of open APIs for decentralised communication, suitable for securely publishing, persisting and subscribing to data over a global open federation of servers with no single point of control. Uses include Instant Messaging (IM), Voice over IP (VoIP) signalling, Internet of Things (IoT) communication, and bridging together existing communication silos - providing the basis of a new open real-time communication ecosystem.]
 
 https://matrix.org/docs/spec/
+
+---
+
+
 
 ---
 
@@ -79,9 +98,13 @@ https://www.starkware.co
 ---
 
 Talk about what Governance is and why it is necessary for Ethereum / Web 3
+---
+Declare your Governance rules such that it is fair regardless of which role you play, i.e you do not know which role you will play in advance
 
 ---
 
 # Solidified CTF
+
+
 
 http://s3.amazonaws.com/airdropchallenges/index.html
