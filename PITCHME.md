@@ -35,6 +35,8 @@ https://gitpitch.com/rjchow/Web3Summit-2018/master
 
 Matrix defines a set of open APIs for decentralised communication, suitable for securely publishing, persisting and subscribing to data over a global open federation of servers with no single point of control. Uses include Instant Messaging (IM), Voice over IP (VoIP) signalling, Internet of Things (IoT) communication, and bridging together existing communication silos - providing the basis of a new open real-time communication ecosystem.
 
+https://matrix.org/docs/spec/
+
 ---
 
 ### LibP2P
@@ -55,7 +57,23 @@ Make efficient use of underlying transports (e.g. native stream muxing, native a
 
 ---
 
+### IPFS
 
+---
+
+### Aragon
+
+---
+### Polkadot
+
+https://polkadot.network
+
+---
+
+### Starkware
+https://www.starkware.co
+
+---
 # Governance
 
 ---
