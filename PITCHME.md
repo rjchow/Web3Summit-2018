@@ -157,12 +157,13 @@ https://polkadot.network
 ![](./images/polkadot.png)
 ---
 ### Starkware
-@snap[north-west]
+@snap[north-east]
 ![](./images/starkware.png)
 @snapend
 - Zero-Knowledge proofs on the blockchain finally?
 - Showed a demo generating ZK proofs cross-platform quite quickly
 - Source not open (yet?)
+
 https://www.starkware.co
 ---
 ### Governance
