@@ -14,13 +14,8 @@ https://gitpitch.com/rjchow/Web3Summit-2018/master
 
 ### What is Web 3.0 ?
 
+![What is Web 3](./images/whatisweb3.png)
 
-@quote[Web 3.0 is a broad movement and a group of associated technologies aiming to make the web and the internet more decentralised, verifiable, and secure. 
-
-The goals of Web 3.0 include (a) trustless infrastructure; (b) removing intermediaries; and (c) giving users power and ownership over their data, identiy, security, and transactions.]
-
-
-https://medium.com/@gavofyork/why-we-need-web-3-0-5da4f2bf95ab
 
 ---
 ### 1 .. 2 .. 3?
@@ -28,6 +23,27 @@ https://medium.com/@gavofyork/why-we-need-web-3-0-5da4f2bf95ab
 - Web 1.0: Read-Only
 - Web 2.0: Read-Write
 - Web 3.0: Read-Write-Verify
+
+Notes:
+
+Examples
+
+1.0:
+
+2.0: Twitter, Facebook, AirBnB
+
+3.0: Buidling in progress! 
+
+
+---
+
+
+@quote[Web 3.0 is a broad movement and a group of associated technologies aiming to make the web and the internet more decentralised, verifiable, and secure.]
+
+@quote[The goals of Web 3.0 include (a) trustless infrastructure; (b) removing intermediaries; and (c) giving users power and ownership over their data, identiy, security, and transactions.]
+
+
+https://medium.com/@gavofyork/why-we-need-web-3-0-5da4f2bf95ab
 
 ---
 
