@@ -134,10 +134,16 @@ Like Bittorrent but for Web?
 [XKCD on IPFS](https://ipfs.io/ipfs/Qmb8wsGZNXt5VXZh1pEmYynjB6Euqpq3HYyeAdw2vScTkQ)
 ---
 
-
----
-
 ### Aragon
+![](./images/aragon.png)
+https://wiki.aragon.org
+
++++
+@snap[west]
+Aragon is a project that aims to disintermediate the creation and maintenance of organizational structures by using blockchain technology. We want to empower people across the world to easily and securely manage their organizations. We provide the tools for anyone to become an entrepreneur and run their own organization, to take control of their own lives.
+<br><br>
+By making it possible for everyone in the world to organize, we are enabling a borderless, permissionless and more efficient creation of value.
+@snapend
 
 ---
 ### Polkadot
