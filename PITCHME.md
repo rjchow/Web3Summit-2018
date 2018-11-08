@@ -96,7 +96,7 @@ https://web3.foundation
 
 ### Notable Projects
 
-+++
+---
 
 ### Matrix
 
@@ -115,24 +115,25 @@ https://matrix.org/docs/spec/
 ---
 
 ### LibP2P
-
-Enable the use of various:
-transports: TCP, UDP, SCTP, UDT, uTP, QUIC, SSH, etc.
-authenticated transports: TLS, DTLS, CurveCP, SSH
-Make efficient use of sockets (connection reuse)
-Enable communications between peers to be multiplexed over one socket (avoiding handshake overhead)
-Enable multiprotocols and respective versions to be used between peers, using a negotiation process
-Be backwards compatible
-Work in current systems
-Use the full capabilities of current network technologies
-Have NAT traversal
-Enable connections to be relayed
-Enable encrypted channels
-Make efficient use of underlying transports (e.g. native stream muxing, native auth, etc.)
-
++++
+![](./images/libp2p.jpg)
 ---
 
 ### IPFS
+Like Bittorrent but for Web?
+![](./images/ipfs1.png)
++++
+![](./images/ipfs2.png)
++++
+![](./images/ipfs3.png)
++++
+![](./images/ipfs4.png)
++++
+![](./images/ipfs5.png)
++++
+[XKCD on IPFS](https://ipfs.io/ipfs/Qmb8wsGZNXt5VXZh1pEmYynjB6Euqpq3HYyeAdw2vScTkQ)
+---
+
 
 ---
 
