@@ -16,7 +16,23 @@ https://gitpitch.com/rjchow/Web3Summit-2018/master
 
 ![What is Web 3](./images/whatisweb3.jpg)
 
+---
+@snap[west]
 
+Web 3.0 is a broad movement and a group of associated technologies aiming to make the web and the internet more decentralised, verifiable, and secure.
+@snapend
+---
+
+@snap[west]
+The goals of Web 3.0 include 
+<ul>
+<li>trustless infrastructure</li> 
+<li>removing intermediaries</li> 
+<li>giving users power and ownership over their data, identity, security, and transactions.</li>
+</ul>
+<br><br>
+<a href="https://medium.com/@gavofyork/why-we-need-web-3-0-5da4f2bf95ab">Why we need Web 3.0 - Gavin Wood</a>
+@snapend
 ---
 ### Webs 1 .. 2 .. 3?
 
@@ -33,37 +49,16 @@ Examples
 2.0: Twitter, Facebook, AirBnB
 
 3.0: Buidling in progress! 
-
-
 ---
 
-@snap[west]
 
-Web 3.0 is a broad movement and a group of associated technologies aiming to make the web and the internet more decentralised, verifiable, and secure.
-@snapend
----
-
-@snap[west]
-The goals of Web 3.0 include (a) trustless infrastructure; (b) removing intermediaries; and (c) giving users power and ownership over their data, identity, security, and transactions.
-<br>
-<a href="https://medium.com/@gavofyork/why-we-need-web-3-0-5da4f2bf95ab">Why we need Web 3.0 - Gavin Wood</a>
-@snapend
-
-
----
-
-### Web3 Foundation
+###### Web3 Foundation
 @quote[The Web3 Foundation nurtures and stewards technologies and applications in the fields of decentralized web software protocols, particularly those which utilize modern cryptographic methods to safeguard decentralization, to the benefit and for the stability of the Web3 ecosystem.]
 
 https://web3.foundation
 
----
+---?include=template/md/techstack/PITCHME.md
 
-### Web3 Tech Stack
-
----
-![Tech Stack Overview](./images/web3techstack.png)
----
 
 ### Notable Projects
 
@@ -75,7 +70,7 @@ https://web3.foundation
 
 ---
 
-@quote[Matrix defines a set of open APIs for decentralised communication, suitable for securely publishing, persisting and subscribing to data over a global open federation of servers with no single point of control. Uses include Instant Messaging (IM), Voice over IP (VoIP) signalling, Internet of Things (IoT) communication, and bridging together existing communication silos - providing the basis of a new open real-time communication ecosystem.]
+@quote[Matrix defines a set of open APIs for decentralised communication, suitable for securely publishing, persisting and subscribing to data over a global open federation of servers with no single point of control. Uses include Instant Messaging, Voice over IP signalling, IOT communication, and bridging together existing communication silos - providing the basis of a new open real-time communication ecosystem.]
 
 https://matrix.org/docs/spec/
 
