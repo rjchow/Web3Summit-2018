@@ -24,11 +24,11 @@ https://gitpitch.com/rjchow/Web3Summit-2018/master
 - Web 2.0: Read-Write
 - Web 3.0: Read-Write-Verify
 
-Notes:
+Note:
 
 Examples
 
-1.0:
+1.0: Geocities, Yahoo, Google
 
 2.0: Twitter, Facebook, AirBnB
 
