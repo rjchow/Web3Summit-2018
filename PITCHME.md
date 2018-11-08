@@ -1,5 +1,5 @@
-# Web3 Summit 2018
-## Berlin
+### Web3 Summit 2018
+###### Berlin
 
 https://gitpitch.com/rjchow/Web3Summit-2018/master
 ---
@@ -13,9 +13,7 @@ https://gitpitch.com/rjchow/Web3Summit-2018/master
 ---
 
 ### What is Web 3.0 ?
-- Web 1.0: Read-Only
-- Web 2.0: Read-Write
-- Web 3.0: Read-Write-Verify
+
 
 @quote[Web 3.0 is a broad movement and a group of associated technologies aiming to make the web and the internet more decentralised, verifiable, and secure. 
 
@@ -23,6 +21,13 @@ The goals of Web 3.0 include (a) trustless infrastructure; (b) removing intermed
 
 
 https://medium.com/@gavofyork/why-we-need-web-3-0-5da4f2bf95ab
+
+---
+### 1 .. 2 .. 3?
+
+- Web 1.0: Read-Only
+- Web 2.0: Read-Write
+- Web 3.0: Read-Write-Verify
 
 ---
 
