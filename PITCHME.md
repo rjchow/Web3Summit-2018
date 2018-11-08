@@ -1,6 +1,7 @@
 ### Web3 Summit 2018
 ###### Berlin
-
++++
+![QR](./images/qr.png)
 https://gitpitch.com/rjchow/Web3Summit-2018/master
 ---
 
@@ -144,17 +145,25 @@ Aragon is a project that aims to disintermediate the creation and maintenance of
 <br><br>
 By making it possible for everyone in the world to organize, we are enabling a borderless, permissionless and more efficient creation of value.
 @snapend
++++
+- Uses some pretty neat decentralised technologies
+- Potential framework we can use to build cross-border project governance, e.g OpenCerts
 
 ---
 ### Polkadot
 
 https://polkadot.network
-
++++
+![](./images/polkadot.png)
 ---
-
 ### Starkware
+@snap[north-west]
+![](./images/starkware.png)
+@snapend
+- Zero-Knowledge proofs on the blockchain finally?
+- Showed a demo generating ZK proofs cross-platform quite quickly
+- Source not open (yet?)
 https://www.starkware.co
-
 ---
 ### Governance
 
@@ -171,3 +180,6 @@ Declare your Governance rules such that it is fair regardless of which role you 
 
 
 http://s3.amazonaws.com/airdropchallenges/index.html
+
+### Thank You!
+![Slides Again](./images/qr.png)
