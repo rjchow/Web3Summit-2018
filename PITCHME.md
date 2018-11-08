@@ -40,11 +40,13 @@ Examples
 @snap[west]
 
 Web 3.0 is a broad movement and a group of associated technologies aiming to make the web and the internet more decentralised, verifiable, and secure.
-<br />
-The goals of Web 3.0 include (a) trustless infrastructure; (b) removing intermediaries; and (c) giving users power and ownership over their data, identiy, security, and transactions.
-<br />
-<a href="https://medium.com/@gavofyork/why-we-need-web-3-0-5da4f2bf95ab">Why we need Web 3.0 - Gavin Wood</a>
+@snapend
+---
 
+@snap[west]
+The goals of Web 3.0 include (a) trustless infrastructure; (b) removing intermediaries; and (c) giving users power and ownership over their data, identity, security, and transactions.
+<br>
+<a href="https://medium.com/@gavofyork/why-we-need-web-3-0-5da4f2bf95ab">Why we need Web 3.0 - Gavin Wood</a>
 @snapend
 
 
