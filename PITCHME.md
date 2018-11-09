@@ -176,6 +176,9 @@ https://www.starkware.co
 +++
 https://youtu.be/eO3fG_1YrE4
 +++
+![](./images/governance.png)
+https://drive.google.com/file/d/0B-6j0YvL6Y-WelVMNnQ4QXVaTHAyWVNUbEJUUXBIcG5rTmVJ/view?usp=sharing
++++
 @quote[Good governance favors what benefits the majority, bad governance favors what appeases the majority]
 +++
 @quote[Declare your Governance rules such that it is fair regardless of which role you play, i.e you do not know which role you will play in advance.]
