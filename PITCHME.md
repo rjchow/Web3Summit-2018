@@ -166,21 +166,32 @@ https://polkadot.network
 
 https://www.starkware.co
 ---
+### Why Decentralisation matters to Singapore (Government?)
+- Decentralisation != Blockchain
+- Drive and participate in protocol standards and specifications
+---
 ### Governance
-
----
-
-Talk about what Governance is and why it is necessary for Ethereum / Web 3
----
-Declare your Governance rules such that it is fair regardless of which role you play, i.e you do not know which role you will play in advance
-
+- Web 2.0 is largely governed by money and "value",
+- Web 3.0 requires a consensus on governance because otherwise there will be arbitrary splits in the network
++++
+https://youtu.be/eO3fG_1YrE4
++++
+@quote[Good governance favors what benefits the majority, bad governance favors what appeases the majority]
++++
+@quote[Declare your Governance rules such that it is fair regardless of which role you play, i.e you do not know which role you will play in advance.]
 ---
 
 ### Solidified CTF
-
-
+![](./images/solidified_ctf.png)
++++
+![](./images/solidified_ctf_2.jpg)
 
 http://s3.amazonaws.com/airdropchallenges/index.html
 
+---
+
 ### Thank You!
 ![Slides Again](./images/qr.png)
+
+### Links
+https://medium.com/web3foundation/web3-summit-a-recap-3f53d14de87e
