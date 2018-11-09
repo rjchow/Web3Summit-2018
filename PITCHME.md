@@ -103,7 +103,6 @@ https://web3.foundation
 ### Matrix
 
 ![](./images/matrix_2.JPG)
-https://youtu.be/UgLhaNqHNAQ
 +++
 
 @quote[Matrix defines a set of open APIs for decentralised communication, suitable for securely publishing, persisting and subscribing to data over a global open federation of servers with no single point of control. Uses include Instant Messaging, Voice over IP signalling, IOT communication, and bridging together existing communication silos - providing the basis of a new open real-time communication ecosystem.]
@@ -115,7 +114,8 @@ https://matrix.org/docs/spec/
 +++
 ![](./images/matrix_3.JPG)
 ---
-
+https://youtu.be/UgLhaNqHNAQ
+---
 ### LibP2P
 +++
 ![](./images/libp2p.jpg)
