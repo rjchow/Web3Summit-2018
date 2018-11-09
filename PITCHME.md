@@ -41,6 +41,7 @@ The goals of Web 3.0 include
 - Web 2.0: Read-Write (Interactive)
 - Web 3.0: Read-Write-Trust (Verifiable)
 
+https://youtu.be/l44z35vabvA
 Note:
 
 Examples
@@ -108,6 +109,7 @@ https://web3.foundation
 @quote[Matrix defines a set of open APIs for decentralised communication, suitable for securely publishing, persisting and subscribing to data over a global open federation of servers with no single point of control. Uses include Instant Messaging, Voice over IP signalling, IOT communication, and bridging together existing communication silos - providing the basis of a new open real-time communication ecosystem.]
 
 https://matrix.org/docs/spec/
+https://youtu.be/UgLhaNqHNAQ
 
 +++
 ![](./images/matrix.png)
@@ -138,6 +140,7 @@ Like Bittorrent but for Web?
 ### Aragon
 ![](./images/aragon.png)
 https://wiki.aragon.org
+https://youtu.be/YG3a5ihbkAQ
 
 +++
 @snap[west]
@@ -165,16 +168,20 @@ https://polkadot.network
 - Source not open (yet?)
 
 https://www.starkware.co
+https://youtu.be/1KSwVIZ82hs
 ---
 ### Why Decentralisation matters to Singapore (Government?)
 - Decentralisation != Blockchain
 - Drive and participate in protocol standards and specifications
+
+https://youtu.be/J2lnjFqi-No
 ---
 ### Governance
 - Web 2.0 is largely governed by money and "value",
 - Web 3.0 requires a consensus on governance because otherwise there will be arbitrary splits in the network
 +++
 https://youtu.be/eO3fG_1YrE4
+https://youtu.be/0pvzB00gZys
 +++
 ![](./images/governance.png)
 https://drive.google.com/file/d/0B-6j0YvL6Y-WelVMNnQ4QXVaTHAyWVNUbEJUUXBIcG5rTmVJ/view?usp=sharing
