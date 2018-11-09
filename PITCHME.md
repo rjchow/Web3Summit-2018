@@ -202,6 +202,6 @@ http://s3.amazonaws.com/airdropchallenges/index.html
 
 ### Thank You!
 ![Slides Again](./images/qr.png)
-
+---
 ### Links
 https://medium.com/web3foundation/web3-summit-a-recap-3f53d14de87e
